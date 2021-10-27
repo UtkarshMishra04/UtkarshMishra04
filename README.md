@@ -2,6 +2,8 @@
 <img src="https://utkarshmishra04.github.io/images/profile.gif" align="center" style="width: 100%" />
 </div>  
 
+<br/>  
+
 <a href="https://github.com/UtkarshMishra04">
     <img src="https://komarev.com/ghpvc/?username=UtkarshMishra04">
 </a>
