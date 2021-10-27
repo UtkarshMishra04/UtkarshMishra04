@@ -4,10 +4,6 @@
 
 <br/>  
 
-<a href="https://github.com/UtkarshMishra04">
-    <img src="https://komarev.com/ghpvc/?username=UtkarshMishra04">
-</a>
-
 <br/>  
 
 <div align="center">
@@ -36,13 +32,19 @@
 
 <div>
 
-- :sparkles: I’m currently developing algorithm to facilitate learning in robotics
-  
-- 
+- :sparkles: I’m currently developing algorithm to facilitate learning in robotics.
+- :mortar_board: You can find my current research interests [here](https://utkarshmishra04.github.io/research/)
+- :trollface: Ping me up if you want to talk about robots, life, music, movies and memes.
   
 </div>
 
 <br/>  
+
+<a href="https://github.com/UtkarshMishra04">
+    <img src="https://komarev.com/ghpvc/?username=UtkarshMishra04">
+</a>
+
+<br />
 
 
 ## My Skill Set  
