@@ -30,12 +30,17 @@
   </a>  
 </div>  
 
-<div>
+<br/>  
 
+<div class="row">
+<div class="col-6">
 - :sparkles: I’m currently developing algorithm to facilitate learning in robotics.
 - :mortar_board: You can find my current research interests [here](https://utkarshmishra04.github.io/research/)
 - :trollface: Ping me up if you want to talk about robots, life, music, movies and memes.
-  
+</div>
+  <div align="center" class="col-4">
+<img src="https://utkarshmishra04.github.io/images/emoji.gif" align="center" style="height: 100%" />
+</div>  
 </div>
 
 <br/>  
