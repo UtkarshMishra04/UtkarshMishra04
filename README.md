@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://ukarshmishra04.github.io/images/profile.gif" align="center" style="width: 100%" />
+<img src="https://utkarshmishra04.github.io/images/profile.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -10,7 +10,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="33%">
 
 
 
@@ -28,7 +28,7 @@
 <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/css.png" alt="css" height="50" />  
 </div>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="33%">
 
 
 
@@ -92,13 +92,7 @@
 <br>
 <p align=center>
   <div align=center>
-    <img max-width="45%" height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarshmishra04&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-    <img max-width="45%" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshmishra04&show_icons=true&hide_border=true">
+    <img max-width="45%" height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarshmishra04&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+    <img max-width="45%" height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshmishra04&show_icons=true&hide_border=true">
   </div>
 </p>
-  
-
-<br/>  
-
-----
-<div align="center">Generated using <a href="https://github.com/rishavanand/github-profilinator" target="_blank">Github Profilinator</a></div>
