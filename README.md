@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://utkarshmishra04.github.io/images/profile.gif" align="center" style="width: 80%" />
-<img src="https://utkarshmishra04.github.io/images/emoji.gif" align="center" style="height: 100%" />
+<img src="https://utkarshmishra04.github.io/images/emoji.gif" align="center" style="width: 13%" />
 </div>  
 
 <br/>  
