@@ -103,7 +103,7 @@
 <br>
 <p align=center>
   <div align=center>
-    <img max-width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarshmishra04&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-    <img max-width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshmishra04&show_icons=true&hide_border=true">
+    <img max-width="40%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarshmishra04&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+    <img max-width="40%" align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshmishra04&show_icons=true&hide_border=true">
   </div>
 </p>
