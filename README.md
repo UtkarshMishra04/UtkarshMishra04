@@ -25,8 +25,8 @@
 <br/>  
 
 
-- :sparkles: I’m currently developing algorithm to facilitate robot learning and safe autonomy.
-- :mortar_board: You can find my current research interests [here](https://utkarshmishra04.github.io/research/)
+- :sparkles: I'm developing compositional generative models for long-horizon robot planning and physical reasoning.
+- :mortar_board: You can find my current research interests [here](https://umishra.me/)
 - :trollface: Ping me up if you want to talk about robots, life, music, movies and memes
 
 <br/>  
