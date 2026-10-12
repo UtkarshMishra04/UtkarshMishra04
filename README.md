@@ -40,6 +40,8 @@
 
 ## Research
 
+Below is a cloud of keywords you will find quite frequently in my publications!
+
 <div align="center">
 <img src="research_cloud.png" alt="Research keyword cloud" width="90%" />
 </div>
